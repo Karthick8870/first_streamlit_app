@@ -6,3 +6,5 @@ streamlit.text('🥫 Masal Dosa')
 streamlit.text('🥗 Idli')
 streamlit.text('🥙 Poori')
 streamlit.text('🌮 Pongal')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
